@@ -1,0 +1,10 @@
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\DuplicateFile.BL\bin\Release\DuplicateFile.BL.dll
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\DuplicateFile.BL\bin\Release\DuplicateFile.BL.pdb
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\DuplicateFile.BL\obj\Release\DuplicateFile.BL.csprojResolveAssemblyReference.cache
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\DuplicateFile.BL\obj\Release\DuplicateFile.BL.dll
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\DuplicateFile.BL\obj\Release\DuplicateFile.BL.pdb
+D:\Development\Project\FileDuplicate\DuplicateFile.BL\bin\Release\DuplicateFile.BL.dll
+D:\Development\Project\FileDuplicate\DuplicateFile.BL\bin\Release\DuplicateFile.BL.pdb
+D:\Development\Project\FileDuplicate\DuplicateFile.BL\obj\Release\DuplicateFile.BL.csprojResolveAssemblyReference.cache
+D:\Development\Project\FileDuplicate\DuplicateFile.BL\obj\Release\DuplicateFile.BL.dll
+D:\Development\Project\FileDuplicate\DuplicateFile.BL\obj\Release\DuplicateFile.BL.pdb

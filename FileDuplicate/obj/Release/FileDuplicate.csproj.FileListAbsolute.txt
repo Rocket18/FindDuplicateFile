@@ -1,0 +1,26 @@
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\bin\Release\FileDuplicate.exe
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\bin\Release\FileDuplicate.pdb
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.csprojResolveAssemblyReference.cache
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.Properties.Resources.resources
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.csproj.GenerateResource.Cache
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.exe
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.pdb
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\bin\Release\DuplicateFile.BL.dll
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\bin\Release\DuplicateFile.BL.pdb
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.MainForm.resources
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.FileMask.resources
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\bin\Release\FileDuplicate.exe.config
+D:\Навчання\3 курс 2 семестр\Проектний практикум\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.SaveMask.resources
+D:\Development\Project\FileDuplicate\FileDuplicate\bin\Release\FileDuplicate.exe.config
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.exe
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.pdb
+D:\Development\Project\FileDuplicate\FileDuplicate\bin\Release\FileDuplicate.exe
+D:\Development\Project\FileDuplicate\FileDuplicate\bin\Release\FileDuplicate.pdb
+D:\Development\Project\FileDuplicate\FileDuplicate\bin\Release\DuplicateFile.BL.dll
+D:\Development\Project\FileDuplicate\FileDuplicate\bin\Release\DuplicateFile.BL.pdb
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.csprojResolveAssemblyReference.cache
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.FileMask.resources
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.MainForm.resources
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.Properties.Resources.resources
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.SaveMask.resources
+D:\Development\Project\FileDuplicate\FileDuplicate\obj\Release\FileDuplicate.csproj.GenerateResource.Cache

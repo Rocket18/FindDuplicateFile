@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileDuplicate.FileMask" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAIAQAACAAABCAEC4AAAABHCIAAAAAAA=</HashCode>
+      <FileName>FileMask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileDuplicate.MainForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HQSwggIggKIgJIAAIBCBCBYiARCaApBIiHkVB4EKAhc=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FileDuplicate.MainPresenter" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIEAAAAAAEAAAAAACAAAAAAAAAIAAAAACAAACQAAAg=</HashCode>
+      <FileName>MainPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileDuplicate.MessageService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAQAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FileDuplicate.SaveMask" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAACAAAAEAAADAAAACgACAAACAAIgAIAAQAAA=</HashCode>
+      <FileName>SaveMask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DuplicateFile.BL.FileManager" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="FileDuplicate.IMainForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAgAIAJIAAIAAAAAYAABACAAAIiAEEBgAAAgQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FileDuplicate.IMessageService" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAQAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DuplicateFile.BL.IFileManager" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
